@@ -1,0 +1,6 @@
+{
+    "mq_login": "test",
+    "mq_password": "test",
+    "mq_host": "localhost",
+    "mq_port": 5672
+}
